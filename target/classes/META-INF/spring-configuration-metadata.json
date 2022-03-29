@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "site",
+      "type": "co.yiiu.pybbs.config.SiteConfig",
+      "sourceType": "co.yiiu.pybbs.config.SiteConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "site.datasource-driver",
+      "type": "java.lang.String",
+      "sourceType": "co.yiiu.pybbs.config.SiteConfig"
+    },
+    {
+      "name": "site.datasource-password",
+      "type": "java.lang.String",
+      "sourceType": "co.yiiu.pybbs.config.SiteConfig"
+    },
+    {
+      "name": "site.datasource-url",
+      "type": "java.lang.String",
+      "sourceType": "co.yiiu.pybbs.config.SiteConfig"
+    },
+    {
+      "name": "site.datasource-username",
+      "type": "java.lang.String",
+      "sourceType": "co.yiiu.pybbs.config.SiteConfig"
+    }
+  ],
+  "hints": []
+}
