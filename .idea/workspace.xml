@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0767ef51-ec08-4e56-8b93-113546a1b5ff" name="Changes" comment="git add .">
+      <change afterPath="$PROJECT_DIR$/logs/log-2022-03-29.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/layout/footer.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/layout/footer.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/layout/footer.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/layout/footer.ftl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +35,15 @@
     </option>
   </component>
   <component name="ProjectId" id="272wpZ8qfphuyKUTmsOr0PTESoj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -106,7 +110,7 @@
       <workItem from="1648558951566" duration="3621000" />
       <workItem from="1648863647837" duration="36000" />
       <workItem from="1648863721991" duration="76000" />
-      <workItem from="1648864031099" duration="1899000" />
+      <workItem from="1648864031099" duration="2835000" />
     </task>
     <task id="LOCAL-00001" summary="git add .">
       <created>1648560313848</created>
@@ -115,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648560313848</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git add .">
+      <created>1648868091371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648868091371</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +145,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="git add ." />
     <option name="LAST_COMMIT_MESSAGE" value="git add ." />
   </component>
