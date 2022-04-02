@@ -2,7 +2,6 @@
     <div class="pull-right hidden-xs">
         <b>Version</b> 2.4.8
     </div>
-    <strong>Copyright © 2014-2016 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights
-    reserved.
+    <strong>共建一流大学</strong>
 </footer>
 <div class="control-sidebar-bg"></div>

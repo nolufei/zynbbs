@@ -7,8 +7,7 @@
     <list default="true" id="0767ef51-ec08-4e56-8b93-113546a1b5ff" name="Changes" comment="git add .">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/upload/avatar/asd/avatar.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/upload/avatar/asd/avatar.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/layout/footer.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/layout/footer.ftl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -104,8 +103,19 @@
       <workItem from="1648532700502" duration="1586000" />
       <workItem from="1648538954135" duration="5946000" />
       <workItem from="1648557638024" duration="747000" />
-      <workItem from="1648558951566" duration="1099000" />
+      <workItem from="1648558951566" duration="3621000" />
+      <workItem from="1648863647837" duration="36000" />
+      <workItem from="1648863721991" duration="76000" />
+      <workItem from="1648864031099" duration="1899000" />
     </task>
+    <task id="LOCAL-00001" summary="git add .">
+      <created>1648560313848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648560313848</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
